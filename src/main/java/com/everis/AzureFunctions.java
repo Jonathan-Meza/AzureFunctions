@@ -21,5 +21,6 @@ public class AzureFunctions {
         name = sc.nextLine();
         System.out.println("Agregaste tu nombre " + name);
         System.out.println("---------");
+        System.out.println("Fin del programa");
     }
 }
